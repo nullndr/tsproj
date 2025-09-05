@@ -1,1 +1,5 @@
-console.log("Hello via Bun!");
+async function main() {}
+
+if (import.meta.main) {
+	await main();
+}
