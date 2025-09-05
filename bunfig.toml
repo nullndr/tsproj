@@ -1,10 +1,10 @@
 
-preload = []
+preload = [""]
 
 [define]
 
 [test]
-  preload = []
+  preload = [""]
   root    = "./tests"
 
 [install]
