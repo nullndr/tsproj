@@ -1,0 +1,10 @@
+
+preload = []
+
+[define]
+
+[test]
+  preload = []
+  root    = "./tests"
+
+[install]
